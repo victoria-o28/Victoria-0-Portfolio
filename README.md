@@ -11,7 +11,7 @@
  + [Authors Info](#author-Info)
  
  ## Description
- <p>This is  a website that shows my portfolio/resume.It contains all my background information,some sample projects that I have worked on and the experience gained.</p>
+ <p>This is  a website that shows my portfolio.It contains all my background information i.e Education Background ,Job experience and hobbies/interests.I have no prior experience in coding and this is my first website.</p>
  
 
  ## Technology Used
@@ -20,14 +20,14 @@
  * CSS - which was used to style the pages incuding the left aside navigation bar
  
  ## Reference
- * Materialize CSS
+ * Used class content from the LMS (Canvas)
 
  
  ## Licence
  
  MIT License
  
- Copyright (c) [2019] [Albert Byrone]
+ Copyright (c) [2022] [Victoria Odhiambo]
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
