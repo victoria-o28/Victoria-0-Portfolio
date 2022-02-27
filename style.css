@@ -25,3 +25,8 @@ img {
     padding: 20px;
     background-image: url("https://b.rgbimg.com/users/x/xy/xymonau/600/pDYUN40.jpg");
   }
+  .column {
+    width: 50px;
+    float: left;
+    padding: 5px;
+  }
