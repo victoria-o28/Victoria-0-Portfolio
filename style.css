@@ -20,4 +20,8 @@ img {
     font-style: italic;
     text-align: left;
   }
-  
+  p{width: 280px;
+    float: right;
+    padding: 20px;
+    background-image: url("https://b.rgbimg.com/users/x/xy/xymonau/600/pDYUN40.jpg");
+  }
