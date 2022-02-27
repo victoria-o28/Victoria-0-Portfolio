@@ -1,3 +1,8 @@
 body{background-image: url("https://static.vecteezy.com/system/resources/previews/004/750/611/non_2x/abstract-geometric-background-illustration-in-flat-style-with-minimal-trendy-and-space-aesthetic-simple-stylish-background-design-suitable-for-social-media-post-mobile-app-banner-web-template-free-vector.jpg");
     font-family: Arial, Helvetica, sans-serif;
 }
+img {
+    width: 8cm;
+    height: 8cm; 
+    float: left;
+  }
